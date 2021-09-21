@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BusinessHelper\BillCalculation.cs" />
+    <Compile Remove="BusinessHelper\IAdditionalCharges.cs" />
+    <Compile Remove="BusinessHelper\IBillingCalculation.cs" />
+    <Compile Remove="BusinessHelper\IPurchaseType.cs" />
+    <Compile Remove="BusinessHelper\PurchaseType.cs" />
+  </ItemGroup>
+
+</Project>

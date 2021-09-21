@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingApi", "BillingApi\BillingApi.csproj", "{1D94B916-90D9-4C51-85A9-EE648B7892D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{B918F1FD-5CA7-4689-B0AF-C3B6ADC2756B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D94B916-90D9-4C51-85A9-EE648B7892D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D94B916-90D9-4C51-85A9-EE648B7892D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D94B916-90D9-4C51-85A9-EE648B7892D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D94B916-90D9-4C51-85A9-EE648B7892D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B918F1FD-5CA7-4689-B0AF-C3B6ADC2756B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B918F1FD-5CA7-4689-B0AF-C3B6ADC2756B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B918F1FD-5CA7-4689-B0AF-C3B6ADC2756B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B918F1FD-5CA7-4689-B0AF-C3B6ADC2756B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E708EBFD-AF8D-4BB1-9CCB-027385E4DC8A}
+	EndGlobalSection
+EndGlobal

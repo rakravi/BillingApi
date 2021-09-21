@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "94AfNU8rEtpwntYoCDrGPR2BBRtBkjO1x3SGZl69DW11F02dt26SiTYYqa1cgOxKoVL3hzN4lhHp+v3lnv1UGA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\BillingApi\\ApiRepo\\BillingApi\\BillingApi\\BillingApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rakes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rakes\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rakes\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\rakes\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\rakes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\rakes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
